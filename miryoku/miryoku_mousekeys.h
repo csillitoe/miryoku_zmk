@@ -16,6 +16,8 @@
 #define U_BTN1 &mkp MB1
 #define U_BTN2 &mkp MB2
 #define U_BTN3 &mkp MB3
+#define U_BTN4 &mkp MB4
+#define U_BTN5 &mkp MB5
 
 #define U_MS_D &mmv MOVE_DOWN
 #define U_MS_L &mmv MOVE_LEFT
