@@ -5,5 +5,5 @@ jobs:
     uses: ./.github/workflows/main.yml
     secrets: inherit
     with:
-      board: '["nice_nano"]'
+      board: '["nice_nano@2.0.0//zmk"]'
       shield: '["corne_left nice_view_adapter nice_view","corne_right nice_view_adapter nice_view"]'
